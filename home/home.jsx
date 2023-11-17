@@ -6,7 +6,7 @@ function home(props)
         
         <section className='home'>
             <div className='letra'>
-                <h4>¿Que hay en tienda?</h4>
+                <h4>¿Que hay en la tienda?</h4>
                 </div>
             
             <div >

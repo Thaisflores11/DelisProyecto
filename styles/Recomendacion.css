@@ -4,8 +4,11 @@
     overflow-y: auto;
     display: contents;
   }
-  
+  h2{
+    padding: 15px
+  ;}
   .tarjeta-container {
+    padding: 10px;
     display: flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
