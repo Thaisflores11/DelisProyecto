@@ -7,7 +7,7 @@ export const recomendaciones = [
     {
       title: "Tarta de Frutas",
       imgUrl: "/unsplash_WdJ_5Txrg7k.svg",
-      precio: "Bs.30",
+      precio: "Bs.20",
     },
     {
         title: "Pastel de Chocolate",
