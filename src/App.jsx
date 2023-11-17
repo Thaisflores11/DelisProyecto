@@ -11,20 +11,9 @@ function App() {
   
       return(
         <>
-        {
-          fondoT.map(fondoo=>{
-            return(
-              
-              <FondoT fondoT={fondoo}>
               <Home/>
               <Cabecera/>
 
-              
-              </FondoT>
-            )
-          })
-        } 
-          
           
         </>
         
