@@ -11,11 +11,12 @@ function App2() {
           
           <FondoT fondoT={fondoo}>
           
-          
           </FondoT>
         )
       })
+      
     } 
+    
       
       
     </>
