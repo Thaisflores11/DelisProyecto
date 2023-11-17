@@ -1,0 +1,29 @@
+
+  
+  .search-container {
+    display: flex;
+    
+    border: 1px solid #834D1E;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 321px;
+    height: 36px;
+    
+  }
+  
+  #search-input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: #FCF2D9;
+  }
+  
+  #search-button {
+    background-color: #FCF2D9;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  

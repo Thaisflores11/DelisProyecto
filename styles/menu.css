@@ -1,0 +1,63 @@
+.scroll-box {
+    width: 390px;
+    height: 810px;
+    margin-left: -15px;
+    margin-top: 15px;
+    border-radius: 30px;
+    overflow: auto;
+    border: 1px solid #ccc;
+    background-color: #FCF2D9;
+  }
+  
+  .scroll-content {
+    background-color: #FCF2D9;
+    margin-top: 10px;
+    margin-left: 5px;
+    padding-right: 15px; /* Añadir espacio para compensar la anchura de la barra de desplazamiento */
+  }
+  
+  .scroll-item {
+    background-color: #FCF2D9;
+    display: flex;
+    align-items: center;
+    width: 321px;
+    height: 129px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .item-image {
+    border-radius: 15px;
+    width: 75px;
+    height: 130px;
+    background-color: #FCF2D9;
+     /* Color de fondo de la imagen (puedes reemplazarlo con la URL de la imagen) */
+  }
+  .item-image img:nth-child(1){
+    background-color: #FCF2D9;
+  }
+  .item-details {
+    background-color: #FCF2D9;
+    width: 240px;
+    height: 63px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .item-title {
+    font-family: Inter;
+font-size: 16px;
+color: #834D1E;
+    font-weight: bold;
+    background-color: #FCF2D9;
+  }
+  
+  .item-price {
+    font-family: Inter;
+    font-size: 16px;
+    color: #834D1E;
+        font-weight: bold;  
+    margin-top: 25px;
+    background-color: #FCF2D9;
+  }

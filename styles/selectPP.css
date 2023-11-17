@@ -1,0 +1,46 @@
+
+.button-container {
+    display: flex;
+    border-radius: 15px;
+    
+    margin-top: 30px;
+    width: 214px;
+    background-color: #FCF2D9;
+    
+  }
+  
+  .button1 {
+    padding: 10px 20px;
+    margin: 0px;
+    background-color: #834D1E;
+    color: #FCF2D9;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 107px;
+    height: 32px;
+    border-radius: 9px;
+    
+
+  }
+  
+  .button2 {
+    padding: 10px 20px;
+    margin: 0px;
+    background-color: #FCF2D9;
+    color: #834D1E;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 107px;
+    height: 32px;
+    border-radius: 9px;
+  }
+  .button:hover {
+    background-color: #2980b9;
+  }
+  
+  .button.selected {
+    background-color: #2ecc71;
+  }
+  
