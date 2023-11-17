@@ -7,9 +7,9 @@ function Menu() {
         <>
         <div className="scroll-box">
             <Descrip />
-            <Descrip />
-            <Descrip />
-            <Descrip />
+            
+            
+            
     </div>
         </>
     )

@@ -1,12 +1,10 @@
 .scroll-box {
-    width: 390px;
+    width: 321px;
     height: 810px;
-    margin-left: -15px;
     margin-top: 15px;
     border-radius: 30px;
     overflow: auto;
     border: 1px solid #ccc;
-    background-color: #FCF2D9;
   }
   
   .scroll-content {
