@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .button-container {
     display: flex;
@@ -5,6 +6,13 @@
     
     margin-top: 30px;
     width: 214px;
+=======
+.button-container {
+    display: flex;
+    border-radius: 15px;
+    margin-left: 35px;
+    margin-top: 30px;
+>>>>>>> 5782a3439c735e91e5607709468ae44520514919
     background-color: #FCF2D9;
     
   }

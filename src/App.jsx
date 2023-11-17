@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Anuncio from '/home/anuncio';
 import Home from '/home/home';
 import Cabecera from '/home/cabecera';
+import Navegador from '/home/navegador';
 import './App.css'
 import FondoT from './components/FondoT'
 import Recomendacion from './components/Recomendacion';
@@ -17,14 +18,16 @@ function App() {
               <Home/>
               
               <Cabecera/>
+              <Navegador/>
               
 
         </>
         
       )
+}
 
   
   
-}
+
 
 export default App
