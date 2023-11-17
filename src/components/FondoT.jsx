@@ -7,10 +7,10 @@ function FondoT(props) {
   return (
     <section>
         
-        <div>
+        <div >
             <img src={fondoT.logo} alt="" />
         </div>
-        <div className='boton1'>
+        <div className='boton_1'>
             <button>
                 <img src={fondoT.boton1} alt="" />
             </button>
