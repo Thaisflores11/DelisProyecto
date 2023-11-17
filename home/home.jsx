@@ -3,11 +3,15 @@ function home(props)
 {
     const more=props.more
     return(
-        <section className='home   '>
-            <div className='home'>
-                <p>¿Que hay en tienda?</p>
+        
+        <section className='home'>
+            <div className='letra'>
+                <h4>¿Que hay en tienda?</h4>
+                </div>
+            
+            <div >
                  <img src="queque.png" alt="" />
-                <img src="masita.png" alt=""/>
+                
             </div>
         </section>
     )

@@ -1,15 +1,15 @@
+*
+{
+    padding: 10px;
+}
 section
 {
-    padding: 15px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
-    
+    flex-direction: row;
 }
-.boton1
+.boton_1
 {
     display: flex;
-    
-    
-
-    
 }

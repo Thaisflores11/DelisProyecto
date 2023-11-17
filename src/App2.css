@@ -1,3 +1,5 @@
-.section{
+section{
     background-color:var(--color-de-fondo);
+    padding: 20px;
+    display: flex;
 }
