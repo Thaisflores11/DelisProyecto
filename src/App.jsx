@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import Anuncio from '/home/anuncio';
 import Home from '/home/home';
 import Cabecera from '/home/cabecera';
 import './App.css'
@@ -11,12 +11,11 @@ function App() {
   
       return(
         <>
+              <Anuncio />
               <Home/>
               <Cabecera/>
 
-          
         </>
-        
         
       )
 
