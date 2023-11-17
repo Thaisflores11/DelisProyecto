@@ -19,6 +19,15 @@ function App() {
         
         
       )
+
+  
+  return (
+    <>
+      <Home/>
+      <Cabecera/>
+       
+    </>
+  )
 }
 
 export default App
