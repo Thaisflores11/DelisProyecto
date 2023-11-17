@@ -3,5 +3,5 @@
   padding: 0;
   box-sizing:border-box;
   font-family:inter;
-  background-color: rgba(240, 175, 99, 1);
+  background-color: var(--color-de-fondo)
 }

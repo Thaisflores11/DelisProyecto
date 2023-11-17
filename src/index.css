@@ -1,5 +1,5 @@
 :root {
-  --color-de-fondo:hsl(32, 82%, 66%);
+  --color-de-fondo:rgb(241, 203, 121);
   --color-de-boton:hsl(28, 63%, 32%);
   --color-de-interiores:hsl(43, 85%, 92%);
   --color-de-sugerencias-pastel:hsl(90, 9%, 42%);
