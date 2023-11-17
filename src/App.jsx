@@ -1,6 +1,10 @@
 import { useState } from 'react'
-import Home from '/home/home';
+import Carrucel2 from '/home/carrucel2';
 import Cabecera from '/home/cabecera';
+import Carrucel1 from '/home/carrucel1';
+
+
+
 import './App.css'
 
 function App() {
@@ -8,8 +12,13 @@ function App() {
 
   return (
     <>
-      <Home/>
+     
+  
+      
+     <Carrucel1/>
+      <Carrucel2/>
       <Cabecera/>
+      
        
     </>
   )

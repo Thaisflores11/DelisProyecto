@@ -5,9 +5,9 @@ function home(props)
     return(
         <section className='home   '>
             <div className='home'>
-                <p>¿Que hay en tienda?</p>
-                 <img src="queque.png" alt="" />
-                <img src="masita.png" alt=""/>
+                <img src="mosue.png" alt="" />
+                <img src="queque2.png" alt=""/>
+                
             </div>
         </section>
     )
