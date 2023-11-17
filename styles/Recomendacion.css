@@ -1,0 +1,40 @@
+.recomendacion-section {
+    text-align: center;
+    margin: 20px 0;
+    overflow-y: auto;
+    display: contents;
+  }
+  
+  .tarjeta-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    margin: 10px 0;
+    overflow-x: auto; 
+    overflow-y: hidden; 
+    width: 100%; 
+  }
+  
+  .tarjeta-recomendacion {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: visible;
+    margin: 0 10px;
+    width: 200px;
+  }
+  
+  .tarjeta-recomendacion img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .textos-tarjeta-recomendacion {
+    padding: 10px;
+    background-color: rgb(239, 173, 97);
+  }
+  
+  .textos-tarjeta-recomendacion p {
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  
