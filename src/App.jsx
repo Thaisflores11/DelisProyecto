@@ -4,6 +4,7 @@ import Home from '/home/home';
 import Cabecera from '/home/cabecera';
 import './App.css'
 import FondoT from './components/FondoT'
+import Recomendacion from './components/Recomendacion';
 import {fondoT} from './assets/APIfondo'
 
 function App() {
@@ -11,8 +12,11 @@ function App() {
   
       return(
         <>
+              <Recomendacion />
               <Home/>
+              
               <Cabecera/>
+              
 
           
         </>
