@@ -17,7 +17,7 @@ export const recomendaciones = [
       {
         title: "Pastel de Chocolate",
         imgUrl: "/image 2.svg",
-        precio: "Bs.15",
+        precio: "Bs.20",
       },
       {
         title: "Tarta de Frutas",
